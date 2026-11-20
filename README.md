@@ -11,6 +11,9 @@ npm install
 npm run dev
 ```
 
+실행화면
+![alt text](image.png)
+
 # Source Code Exploration: 주요 파일 구조, useEffect 및 useRef 분석, 주요 코드 2개 설명
 index.html -> main.jsx -> App.jsx -> 선택된 LAB 컴포넌트
 
@@ -68,6 +71,8 @@ App.jsx:
 
 index.html: 
 브라우저 탭 제목을 React Hooks W12로 변경
+
+Lab.jsx 들 : 분/초 표시 기능
 
 # Deployment: 실제 접근 가능한 Vercel URL
 https://week12-starter-project-mu.vercel.app/
