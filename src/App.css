@@ -58,6 +58,8 @@ body {
   flex-direction: column;
   gap: 5px;
   color: #32435e;
+
+  background-color: rgb(237, 127, 127);
 }
 
 .tab span {
@@ -78,6 +80,7 @@ body {
   background: white;
   padding: 28px;
   box-shadow: 0 8px 22px #273c6420;
+  background-color: rgb(236, 236, 170);
 }
 
 .section-heading {
@@ -107,6 +110,7 @@ body {
   font-weight: 800;
   letter-spacing: -2px;
   margin: 18px 0;
+  color: red;
 }
 
 .controls {
